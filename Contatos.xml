@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cadastro>
+<nome>Anderson</nome>
+<telefone>
+<operadora>Operadora Telefonia</operadora>
+<numero>987654321</numero>
+</telefone>
+</Cadastro>
